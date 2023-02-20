@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(138, 138, 215);
+    border-style: dotted;
+    border-color: rgb(83, 224, 83);
+    border-width:5px ;
+    padding: 20px;
+    margin: 5%;
+}
+.words{
+    background-color: rgb(103, 20, 181);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(210, 87, 112);
+    border-width:5px ;
+    padding: 20px;
+    margin:5% ;
+}
